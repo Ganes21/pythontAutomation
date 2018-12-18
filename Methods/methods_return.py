@@ -13,7 +13,9 @@ def method_return(a,b,c):
    return a+b+c
 
 sum1=method_return(1,2,3)
+str=method_return('uday','kanth','mallampalli')
 print(sum1)
+print(str)
 
 def ifMetro(city):
     l=['sfa','la','nyc']
