@@ -23,9 +23,10 @@ sum4=sum_num(n2=6,n1=9)
 print(sum4)
 print("*****************")
 sum5=sum_num(n2=5)
-print(sum5)
+print("the result is ",sum5)
 sum6=sum_num(n1=6)
-print(sum6)
+
+print("the result is ",sum6)
 
 
 def su_nu(n1,n2=9):
